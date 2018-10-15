@@ -25,4 +25,5 @@ class EmojiTableViewController: UITableViewController {
         Emoji("💤", "Snore", "Three blue \'z\'s.", "tired, sleepiness"),
         Emoji("🏁", "Checkered Flag", "A black-and-white checkered flag.", "completion")]
     
+    
 }
